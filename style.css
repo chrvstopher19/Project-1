@@ -1,0 +1,54 @@
+body {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/027/807/583/non_2x/spooky-halloween-wallpaper-with-pumpkin-and-old-house-free-photo.jpg'); 
+    background-size:cover;
+    font-family: 'Creepster';
+    text-align: center;
+}
+
+
+h1{
+    text-align: center;
+    color:rgb(200, 110, 0);
+    font-size: 30px;
+    }
+
+#rDice {
+    margin: 0;
+}
+
+.container {
+    background-color: black;
+    border-radius: 15px;
+    margin: 30px auto;
+    width: 600px; 
+    height: 500px;
+    color: rgb(200, 110, 0);
+    text-shadow: 2px 2px 8px #FF0000;
+    box-shadow: 12px 12px 2px 1px rgba(255, 42, 0, 0.2);
+    
+}
+
+#moveTxt {
+    font-size: 30px;
+    font-weight:bold;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+    color:  rgb(200, 110, 0);
+}
+
+.dice-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+#dice {
+    width: 250px;
+}
+
+img {
+    width: 250px;
+}
