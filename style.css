@@ -20,7 +20,7 @@ h1{
     background-color: black;
     border-radius: 15px;
     margin: 30px auto;
-    width: 600px; 
+    width: 750px; 
     height: 500px;
     color: rgb(200, 110, 0);
     text-shadow: 2px 2px 8px #FF0000;
@@ -50,5 +50,5 @@ button {
 }
 
 img {
-    width: 250px;
+    width: 120px;
 }
